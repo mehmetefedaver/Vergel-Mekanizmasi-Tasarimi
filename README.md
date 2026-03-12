@@ -18,4 +18,4 @@ Mekanizmanın çalışma prensibini ve hareket döngüsünü aşağıdaki videod
 Proje dosyalarına ulaşmak için yukarıdaki dosya listesinden STEP klasörüne göz atabilirsiniz. Bu dosya; AutoCAD, Fusion 360, CATIA ve diğer tüm CAD yazılımları ile uyumludur.
 
 ---
-*Mekatronik Mühendisliği Proje Çalışması*
+*Mehmet Efe Daver*
